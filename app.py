@@ -518,7 +518,6 @@ PACKAGES = {
     }
 }
 
-
 # ================= PACKAGES PAGE =================
 
 @app.route("/packages")
